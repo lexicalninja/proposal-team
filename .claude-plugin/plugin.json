@@ -9,6 +9,12 @@
   "repository": "https://github.com/lexicalninja/proposal-team",
   "homepage": "https://github.com/lexicalninja/proposal-team",
   "keywords": ["proposal", "federal", "government", "procurement", "rfp", "compliance", "contracting"],
-  "agents": "./agents/",
+  "agents": [
+    "./agents/compliance-reviewer.md",
+    "./agents/growth-strategist.md",
+    "./agents/past-performance-specialist.md",
+    "./agents/solution-architect.md",
+    "./agents/subject-matter-expert.md"
+  ],
   "skills": "./skills/"
 }
